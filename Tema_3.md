@@ -37,7 +37,7 @@ else:
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_1.png)
 
 ### Выводы
 
@@ -57,7 +57,7 @@ else:
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_2.png)
 
 ### Выводы
 
@@ -77,7 +77,7 @@ else:
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_3.png)
 
 ### Выводы
 
@@ -99,7 +99,7 @@ else:
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_4.png)
 
 ### Выводы
 
@@ -124,7 +124,7 @@ for i in range(10):
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_5.png)
 
 ### Выводы
 
@@ -146,7 +146,7 @@ else:
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_6.png)
 
 ### Выводы
 
@@ -163,7 +163,7 @@ for i in range(10, -1, -1):
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_7.png)
 
 ### Выводы
 
@@ -185,7 +185,7 @@ while value < 100:
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_8.png)
 
 ### Выводы
 
@@ -208,7 +208,7 @@ print(value)
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_9.png)
 
 ### Выводы
 
@@ -231,7 +231,7 @@ else:
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/Screenshot_10.png)
 
 ### Выводы
 
@@ -250,7 +250,7 @@ print(n)
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/sam1.png)
 
 ### Выводы
 
@@ -265,7 +265,7 @@ for i in range(len(string) - 1, -1, -1):
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/sam12.png)
 
 ### Выводы
 
@@ -286,7 +286,7 @@ else:
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/sam13.png)
 
 ### Выводы
 
@@ -312,7 +312,7 @@ print(sentence.endswith("end"))
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/sam14.png)
 
 ### Выводы
 
@@ -338,7 +338,7 @@ print(memory)
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_3/picture/sam15.png)
 
 ### Выводы
 
